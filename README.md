@@ -1,5 +1,5 @@
 # dashlights-model
-a turicreate one-shot object detection model for the dashlights app
+A Turi Create object detection model for the Dashlights app.
 
 - dashlights-subaru includes all indicators data suitable to this model family (77 images / classes)
 
