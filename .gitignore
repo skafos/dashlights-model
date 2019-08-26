@@ -1,0 +1,11 @@
+legacy_stuff/
+TrainingImages/
+*.sframe
+*.json
+__pycache__
+.ipynb_checkpoints
+NewTrainingImages/
+*_model/
+*_sframe/
+*.mlmodel
+*.zip
